@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.gifer.com/76cI.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
