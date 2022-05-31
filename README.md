@@ -15,7 +15,7 @@ At the current moment of my life, I am learning popular frameworks:
 
 - :zap: Spring for Java.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=Linkedin&logoColor=white)](https://vk.com/nvy2001)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VK-red?style=flat&logo=Linkedin&logoColor=black)](https://vk.com/nvy2001)
 
 ---
 
