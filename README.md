@@ -41,7 +41,8 @@ At the current moment of my life, I am learning popular frameworks:
 ### :fire: My Stats :
 
 
-[![NVY977 GitHub stats](https://github-readme-stats.vercel.app/api?username=NVY977&theme=tokyonight&count_private=false&show_icons=true)](https://github.com/NVY977)<br>
+[![NVY977 GitHub stats](https://github-readme-stats.vercel.app/api?username=NVY977&theme=tokyonight&count_private=false&show_icons=true)](https://github.com/NVY977)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVY977&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
