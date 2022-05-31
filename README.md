@@ -48,7 +48,7 @@ At the current moment of my life, I am learning popular frameworks:
 <!--
 **NVY977/NVY977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
