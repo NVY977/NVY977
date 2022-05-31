@@ -43,7 +43,7 @@ At the current moment of my life, I am learning popular frameworks:
 
 
 [![NVY977 GitHub stats](https://github-readme-stats.vercel.app/api?username=NVY977&theme=tokyonight&count_private=false&show_icons=true)](https://github.com/NVY977)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVY977&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVY977&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NVY977/NVY977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
