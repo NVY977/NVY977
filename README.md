@@ -9,11 +9,11 @@ I am a junior backend developer <img src="https://media.giphy.com/media/WUlplcMp
 
 At the current moment of my life, I am learning popular frameworks:
 
-- :cyclone: Django for Python.
+- :zap: SpringBoot for Java.
+
+- :cyclone: Vue.js and React.
 
 - :tornado: Laravel for PHP.
-
-- :zap: Spring for Java.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VK-red?style=flat&logo=Linkedin&logoColor=black)](https://vk.com/nvy2001)
 
