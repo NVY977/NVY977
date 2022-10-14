@@ -9,7 +9,7 @@ I am a junior backend developer <img src="https://media.giphy.com/media/WUlplcMp
 
 At the current moment of my life, I am learning popular frameworks:
 
--:zap: SpringBoot for Java.
+- :zap: SpringBoot for Java.
 
 - :cyclone: Vue.js and React.
 
