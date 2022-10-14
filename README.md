@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 
-I am a junior backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a junior backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 At the current moment of my life, I am learning popular frameworks:
 
